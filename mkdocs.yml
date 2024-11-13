@@ -17,10 +17,11 @@ nav:
   # - Roadmap: roadmap.md
 
 theme:
+  favicon: assets/images/favicon.svg
   name: material
   icon:
     repo: fontawesome/brands/github
-    logo: fontawesome/solid/database
+    logo: fontawesome/solid/square-poll-vertical
   palette:
     - scheme: default
       primary: teal

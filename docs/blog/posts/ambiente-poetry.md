@@ -1,7 +1,7 @@
 ---
-date:
-  created: 2024-11-13
-  # my_custom_date: 13-11-2024
+date: 2024-11-13
+authors:
+  - aislansf
 ---
 
 # Preparação de um ambiente de desenvolvimento Python
@@ -211,4 +211,4 @@ Agora iremos inserir a chave copiada no github. Para isso, você pode dar uma ol
 Se tudo ocorreu bem, finalizamos a nossa jornada de preparação do ambiente. Agora você está preparado para construir e colaborar com projetos Python de maneira produtiva e eficiente.
 
 !!! tip "Dica"
-Se você quer preparar este ambiente para trabalhar com ciência de dados, o próximo passo é criar um repositório a partir do [seguinte template](https://github.com/aislansf/project-template), e efetuar o clone na sua máquina. Se você tem dúvidas de como criar repositórios a partir de templates, acesse a [documentação oficial](https://docs.github.com/pt/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) do github.
+    Se você quer preparar este ambiente para trabalhar com ciência de dados, o próximo passo é criar um repositório a partir do [seguinte template](https://github.com/aislansf/project-template), e efetuar o clone na sua máquina. Se você tem dúvidas de como criar repositórios a partir de templates, acesse a [documentação oficial](https://docs.github.com/pt/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) do github.

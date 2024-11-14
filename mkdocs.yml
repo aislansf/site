@@ -8,11 +8,11 @@ plugins:
       # post_url_date_format: dd/MM/yyyy
       post_url_format: "{date}/{slug}"
 
-nav:
-  - Home: 
-    - index.md
-  - Blog:
-    - blog/index.md
+# nav:
+#   - Home: 
+#     - index.md
+#   - Blog:
+#     - blog/index.md
   # - Mapeamento das fontes de dados: fonte-dados.md
   # - Roadmap: roadmap.md
 
@@ -38,11 +38,11 @@ theme:
   features:
     - navigation.indexes
     - content.code.copy
-  #   - navigation.tabs
-  #   - navigation.top
-  #   - navegation.expand
-  #   - navigation.tabs.sticky
-  #   - navigation.tracking
+    - navigation.tabs
+    - navigation.top
+    - navegation.expand
+    - navigation.tabs.sticky
+    - navigation.tracking
 markdown_extensions:
   - footnotes
   - admonition

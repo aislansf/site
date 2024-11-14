@@ -2,6 +2,11 @@
 date: 2024-11-13
 authors:
   - aislansf
+categories:
+  - Ambiente
+# description: >
+#   We are transforming Material for MkDocs to ensure its community continues to thrive and doubling down on our commitment to Open Source.
+# title: How we're transforming Material for MkDocs
 ---
 
 # Preparação de um ambiente de desenvolvimento Python
